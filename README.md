@@ -1,0 +1,3 @@
+Đây là một web giúp một cửa hàng cụ thể có thể quản lý cửa hàng khi bán trên Lazada
+Hỗ trợ chủ cửa hàng dễ dàng tiếp xúc với việc bán hàng online, đặc biệt là trên Lazada, cập nhập được số lượng sản phẩm trong kho
+Quản lý: sản phẩm, người mua, doanh thu,...
